@@ -6,7 +6,7 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## [ABOUT ME](./about-me) | [BIOL-3100-Final-Project](./BIOL-3100-Final)##
+## [ABOUT ME](./about-me) | [BIOL-3100-Final-Project](./PALMER_Skills_Test_3)##
 
 # **Dalton Palmer - Penguinologist** #
 
