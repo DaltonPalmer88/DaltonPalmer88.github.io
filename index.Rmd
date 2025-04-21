@@ -1,0 +1,18 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## [ABOUT ME](./about-me) | [BIOL-3100-Final-Project](./BIOL-3100-Final)##
+
+# **Dalton Palmer - Penguinologist** #
+
+```{r, out.width="60%", echo=FALSE}
+knitr::include_graphics("./media/pic.jpg")
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
