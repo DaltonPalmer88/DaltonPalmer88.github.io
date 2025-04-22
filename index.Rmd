@@ -8,10 +8,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## [ABOUT ME](./about-me) | [BIOL-3100-Final-Project](./final_project)##
 
-# **Dalton Palmer - Penguinologist** #
+# **Dalton Palmer - Penguinologist/Botanist** #
 
 ```{r, out.width="60%", echo=FALSE}
-knitr::include_graphics("./media/pic.jpg")
+knitr::include_graphics("./media/polaroid.png")
 ```
 
 
